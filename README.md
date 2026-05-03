@@ -1,9 +1,9 @@
 # tiktok-repostdeletion
 
-removes all reposts (videos and photos) from your tiktok account.
-runs in the browser console, no install needed.
+JS script that removes all reposts (videos and photos) from your TikTok account.
+Runs in the browser console, no install needed.
 
-## how to use
+## How to use
 
 1. open tiktok.com and login
 2. go to your profile and click the **Reposts** tab
